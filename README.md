@@ -1,2 +1,2 @@
 # picgo-image
-Typroa图床
+Typora图床
